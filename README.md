@@ -21,19 +21,19 @@ Develop a cloud-based system to monitor drug inventory, ensure availability, tra
 
 ### 2. Data Flow
 
-![Data Flow](diagrams/dataflow.jpg)
+![Data Flow](diagrams/dataflow.png)
 
 ---
 
 ### 3. Deployment
 
-![Deployment](diagrams/deployment.jpg)
+![Deployment](diagrams/deployment.png)
 
 ---
 
 ### 4. Cloud Architecture
 
-![Cloud](diagrams/cloud.jpg)
+![Cloud](diagrams/cloud.png)
 
 ---
 
