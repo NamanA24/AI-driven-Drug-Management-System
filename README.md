@@ -1,43 +1,43 @@
-# 🚀 AI-Driven Cloud Drug Management System
+# AI-Driven Cloud Drug Management System
 
-🥈 **Runner-Up at Hack MIT-WPU'25**
-☁️ Cloud + AI + IoT System Design Project
+**Runner-Up at Hack MIT-WPU'25**
+Cloud + AI + IoT System Design Project
 
 ---
 
-## 🧩 Problem Statement
+## Problem Statement
 
 Develop a cloud-based system to monitor drug inventory, ensure availability, track supply chains, and predict shortages using AI.
 
 ---
 
-## 🏗️ System Architecture
+## System Architecture
 
-### 🔹 Workflow
+### 1. Workflow
 
 ![Workflow](diagrams/workflow.jpg)
 
 ---
 
-### 🔹 Data Flow
+### 2. Data Flow
 
 ![Data Flow](diagrams/dataflow.jpg)
 
 ---
 
-### 🔹 Deployment
+### 3. Deployment
 
 ![Deployment](diagrams/deployment.jpg)
 
 ---
 
-### 🔹 Cloud Architecture
+### 4. Cloud Architecture
 
 ![Cloud](diagrams/cloud.jpg)
 
 ---
 
-## ⚙️ System Pipeline
+## System Pipeline
 
 1. Sensors collect real-time data (temperature, location, stock)
 2. AWS IoT Core ingests data
@@ -50,7 +50,7 @@ Develop a cloud-based system to monitor drug inventory, ensure availability, tra
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 * AWS (IoT Core, Lambda, Kinesis, S3, RDS, SageMaker, SNS, Amplify)
 * Cloud Architecture Design
@@ -58,7 +58,7 @@ Develop a cloud-based system to monitor drug inventory, ensure availability, tra
 
 ---
 
-## 🧠 Key Features
+## Key Features
 
 * Real-time drug inventory tracking
 * Predictive analytics for shortages
@@ -67,20 +67,20 @@ Develop a cloud-based system to monitor drug inventory, ensure availability, tra
 
 ---
 
-## 🏆 Achievement
+## Achievement
 
-🥈 Runner-Up at Hack MIT_WPU'25(AWS Reforge)
-
----
-
-## 🔄 Current Status
-
-🟡 System Design Completed
-🟡 Implementation in Progress
+Runner-Up at Hack MIT_WPU'25(AWS Reforge)
 
 ---
 
-## 🔮 Future Work
+## Current Status
+
+* System Design Completed
+* Implementation in Progress
+
+---
+
+## Future Work
 
 * Build ML model for prediction
 * Develop backend APIs
